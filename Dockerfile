@@ -1,4 +1,4 @@
-FROM node:5.12
+FROM node:latest
 
 RUN useradd ethercalc --create-home
 
