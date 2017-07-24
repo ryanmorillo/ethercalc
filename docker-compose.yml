@@ -1,5 +1,5 @@
 ethercalc:
-  image: audreyt/ethercalc
+  image: ryanmorillo/ethercalc
   ports:
     - "80:8000"
   links:
